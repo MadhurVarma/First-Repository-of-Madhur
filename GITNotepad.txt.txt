@@ -1,1 +1,1 @@
-GIT Notepad
+GIT Notepad inside patch branch
